@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Wonhui%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Wonhui%20Kim&fontSize=70)
 
 <h3>tech</h3>
 
